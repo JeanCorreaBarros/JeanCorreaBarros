@@ -12,14 +12,14 @@
 
 ### 🚀 About Me
 
-🔭 Actualmente estoy trabajando en aplicaciones web impulsadas por JavaScript
-🌱 Actualmente estoy aprendiendo Arquitectura en la Nube y Frameworks Avanzados de Frontend
-👯 Estoy buscando colaborar en proyectos web de código abierto
-🤝 Estoy disponible para consultoría pro bono y voluntariado
-💬 Pregúntame sobre JavaScript, React y Desarrollo Frontend
-📫 Cómo contactarme: jeandevcode@gmail.com
-📄 Consulta mi currículum para más detalles: TuCurrículumLink
-⚡ Curiosidad: me gusta hacer bocetos y jugar en consola en mi tiempo libre.
+- 🔭 I'm currently working on JavaScript-driven web applications
+- 🌱 I'm currently learning Cloud Architecture and Advanced Frontend Frameworks
+- 👯 I'm looking to collaborate on open-source web projects
+- 🤝 I'm open for pro bono consulting and volunteering
+- 💬 Ask me about JavaScript, React, and Frontend Development
+- 📫 How to reach me: jeandevcode@gmail.com
+- 📄 Check out my Résumé for more details
+⚡ Fun fact: I enjoy sketching and playing chess in my free time
 
 ---
 
