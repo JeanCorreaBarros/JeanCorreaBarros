@@ -19,7 +19,7 @@
 - 💬 Ask me about JavaScript, React, and Frontend Development
 - 📫 How to reach me: jeandevcode@gmail.com
 - 📄 Check out my Résumé for more details
-⚡ Fun fact: I enjoy sketching and playing chess in my free time
+- ⚡ Fun fact: I enjoy sketching and playing chess in my free time
 
 ---
 
