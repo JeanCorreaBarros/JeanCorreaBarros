@@ -17,7 +17,7 @@
 - 👯 I'm looking to collaborate on open-source web projects
 - 🤝 I'm open for pro bono consulting and volunteering
 - 💬 Ask me about JavaScript, React, and Frontend Development
-- 📫 How to reach me: jeancorrea1000@gmail.com
+- 📫 How to reach me: jeandevcode@gmail.com
 - 📄 Check out my Résumé for more details
 ⚡ Fun fact: I enjoy sketching and playing chess in my free time
 
@@ -56,12 +56,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
+ 
+ 
 </p>
 
 
